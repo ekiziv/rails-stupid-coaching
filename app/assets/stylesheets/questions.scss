@@ -1,0 +1,41 @@
+// Place all the styles related to the pages controller here.
+// They will automatically be included in application.css.
+// You can use Sass (SCSS) here: http://sass-lang.com/
+
+.box {
+  padding: 10px;
+  border-left: 4px solid #DDDDDD;
+  margin: 10px;
+}
+
+.answer {
+  background-color: #FFFEE1;
+  h3 {
+    font-weight: bolder;
+  }
+}
+
+a {
+  text-decoration: none;
+  color: #659DD7;
+  margin: 10px;
+
+}
+
+h3 {
+  font-weight: lighter;
+  font-size: 14px;
+}
+
+p {
+  font-style: italic;
+}
+
+#question {
+  margin: 20px 0 !important;
+}
+
+.form-group {
+  width: 100%;
+}
+
